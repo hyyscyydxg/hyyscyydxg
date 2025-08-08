@@ -1,5 +1,3 @@
 ## Hi there 👋
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyyscyydxg)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyyscyydxg) 
-
-
+![hyyscyydxg's GitHub stats](https://github-readme-stats-sigma-ruddy.vercel.app/api?username=hyyscyydxg)
+[![Top Langs](https://github-readme-stats-sigma-ruddy.vercel.app/api/top-langs/?username=hyyscyydxg&layout=compact)](https://github.com/fen-dada/github-readme-stats)
